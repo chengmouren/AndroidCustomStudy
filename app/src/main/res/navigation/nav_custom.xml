@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            app:startDestination="@id/divider_fragment">
+
+    <fragment
+            android:id="@+id/divider_fragment"
+            android:name="cb.study.custom.ui.fragment.DividerFragment"
+            android:label="绘图"
+            tools:layout="@layout/divider_fragment">
+        <action android:id="@+id/action_divider_to_draw_fragment"
+        app:destination="@id/divider_fragment"></action>
+    </fragment>
+
+    <fragment
+            android:id="@+id/draw_fragment"
+            label="绘图基本Api"
+            android:name="cb.study.custom.ui.fragment.DrawFragment"
+    ></fragment>
+</navigation>

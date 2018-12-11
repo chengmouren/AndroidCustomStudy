@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.work:work-runtime-1.0.0-alpha07">
+    <CLASSES>
+      <root url="file://C:/E/android/gradle/.gradle/caches/transforms-1/files-1.1/work-runtime-1.0.0-alpha07.aar/97a110f94d18875ecab9af51c8a0c2cb/res" />
+      <root url="jar://C:/E/android/gradle/.gradle/caches/transforms-1/files-1.1/work-runtime-1.0.0-alpha07.aar/97a110f94d18875ecab9af51c8a0c2cb/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/E/android/gradle/.gradle/caches/modules-2/files-2.1/android.arch.work/work-runtime/1.0.0-alpha07/4755a1214822d4515b853dddf8afd0969aac1563/work-runtime-1.0.0-alpha07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

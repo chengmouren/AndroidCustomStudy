@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.core:runtime-1.1.1">
+    <CLASSES>
+      <root url="jar://C:/E/android/gradle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a7764922e6ad081f5d9f0dfd4a171bb3/jars/classes.jar!/" />
+      <root url="file://C:/E/android/gradle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a7764922e6ad081f5d9f0dfd4a171bb3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/E/android/gradle/.gradle/caches/modules-2/files-2.1/android.arch.core/runtime/1.1.1/25df553df10af32bede9dd768a2d15299543d84/runtime-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
