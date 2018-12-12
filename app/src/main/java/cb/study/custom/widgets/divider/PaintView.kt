@@ -7,7 +7,7 @@ import android.graphics.Paint
 import android.util.AttributeSet
 import android.view.View
 
-class CircularView @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0)
+class PaintView @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0)
     :View(context, attrs, defStyleAttr){
 
     private val paint =Paint().apply {
@@ -20,7 +20,7 @@ class CircularView @JvmOverloads constructor(context: Context, attrs: AttributeS
          */
 
         style =Paint.Style.STROKE
-        strokeWidth =50f //设置画笔宽度
+        strokeWidth =50f //设置画笔宽度(单位：px)
         //是否打开抗锯齿（依赖算法，一般在绘制不规则的图形时使用，比如圆形，文字等）
         isAntiAlias=true
 

@@ -1,6 +1,7 @@
 package cb.study.custom.ui.fragment
 
 
+import android.content.Context
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.view.LayoutInflater
@@ -21,6 +22,4 @@ class DividerFragment : Fragment() {
     ): View? {
         return inflater.inflate(R.layout.divider_fragment, container, false)
     }
-
-
 }
