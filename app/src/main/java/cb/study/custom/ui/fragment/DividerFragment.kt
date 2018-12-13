@@ -11,15 +11,20 @@ import cb.study.custom.R
 
 class DividerFragment : Fragment() {
 
-    companion object {
-        fun newInstance() = DividerFragment()
-    }
-
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         return inflater.inflate(R.layout.divider_fragment, container, false)
+    }
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
+    }
+
+    companion object {
+        fun newInstance() = DividerFragment()
     }
 }

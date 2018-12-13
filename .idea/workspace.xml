@@ -16,10 +16,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232cf955-600e-4ce2-b4f8-507c932e4130" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/RectPointView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/DividerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/DividerFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CircularView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/PaintView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/DrawFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/PaintFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/divider_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/divider_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/draw_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/draw_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_custom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_custom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,43 +60,45 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="nav_custom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/nav_custom.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
               <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="draw_fragment.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/draw_fragment.xml">
-          <provider editor-type-id="text-editor">
+          <provider editor-type-id="android-designer2">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="divider_fragment.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/divider_fragment.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="DrawFragment.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/DrawFragment.kt">
+      <file leaf-file-name="PaintFragment.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/PaintFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="414">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -91,29 +106,29 @@
       <file leaf-file-name="PaintView.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/PaintView.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="26" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CanvasView.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView.kt">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
-              <folding>
-                <element signature="e#41#189#0" expanded="true" />
-              </folding>
+              <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Canvas.class" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/E/android/androidSdk/platforms/android-28/android.jar!/android/graphics/Canvas.class">
+      <file leaf-file-name="CanvasView1.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView1.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="330" column="51" selection-start-line="330" selection-start-column="51" selection-end-line="330" selection-end-column="51" />
+            <state relative-caret-position="575">
+              <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RectPointView.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/RectPointView.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="54" column="40" lean-forward="true" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+              <folding>
+                <element signature="e#41#288#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,7 +136,7 @@
       <file leaf-file-name="Canvas.java" pinned="false" current-in-tab="false">
         <entry file="file://C:/E/android/androidSdk/sources/android-28/android/graphics/Canvas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
+            <state relative-caret-position="35742">
               <caret line="1637" column="37" selection-start-line="1637" selection-start-column="30" selection-end-line="1637" selection-end-column="37" />
             </state>
           </provider>
@@ -130,8 +145,8 @@
       <file leaf-file-name="DividerFragment.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/DividerFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="232">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -2500,12 +2515,17 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_navigation.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/navigation/nav_custom.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/divider_fragment.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/DrawFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CircularView.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/DividerFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/PaintView.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView2.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/DrawFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/draw_fragment.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/DividerFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView1.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/divider_fragment.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/RectPointView.kt" />
       </list>
     </option>
   </component>
@@ -2606,6 +2626,19 @@
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndroidCustomStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidCustomStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cb" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
               <item name="fragment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2618,7 +2651,9 @@
               <item name="cb" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="fragment" type="462c0819:PsiDirectoryNode" />
+              <item name="divider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AndroidCustomStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -2631,7 +2666,6 @@
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
               <item name="widgets" type="462c0819:PsiDirectoryNode" />
-              <item name="divider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AndroidCustomStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -2655,6 +2689,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2743,14 +2778,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="C:/E/android/androidSdk" />
-    <property name="device.picker.selection" value="b691dbf9" />
+    <property name="device.picker.selection" value="CB512E7E19" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
   </component>
   <component name="RecentsManager">
@@ -2759,6 +2793,7 @@
       <recent name="cb.study.custom.viewmodule" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="cb.study.custom.widgets.divider" />
       <recent name="cb.study.custom.ui.fragment" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -2919,22 +2954,31 @@
       <option name="presentableId" value="Default" />
       <updated>1544163308186</updated>
     </task>
+    <task id="LOCAL-00001" summary="画布api的实现">
+      <created>1544609220853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544609220853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Preview" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32874355" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3281787" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32646048" />
       <window_info anchor="bottom" id="Logcat" order="7" weight="0.3958692" />
       <window_info id="Captures" order="2" weight="0.24962178" />
       <window_info id="Capture Tool" order="2" />
@@ -2948,7 +2992,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" sideWeight="0.5008606" side_tool="true" weight="0.24962178" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Preview" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -2960,26 +3003,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="画布api的实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="画布api的实现" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/draw_fragment.xml">
-      <provider editor-type-id="text-editor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/divider_fragment.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/DrawFragment.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/PaintFragment.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
@@ -3242,14 +3271,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/draw_fragment.xml">
-      <provider editor-type-id="text-editor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/DrawViewModel.kt" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/nav_custom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -3262,6 +3283,79 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/DrawFragment.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/DividerFragment.kt" />
+    <entry file="file://C:/E/android/androidSdk/sources/android-28/android/graphics/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35742">
+          <caret line="1637" column="37" selection-start-line="1637" selection-start-column="30" selection-end-line="1637" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/E/android/androidSdk/platforms/android-28/android.jar!/android/graphics/Canvas.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5382">
+          <caret line="330" column="51" selection-start-line="330" selection-start-column="51" selection-end-line="330" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/draw_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/PaintFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/PaintView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/divider_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/RectPointView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="54" column="40" lean-forward="true" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+          <folding>
+            <element signature="e#41#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/activity/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -3269,59 +3363,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/divider_fragment.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/DividerFragment.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/divider/DrawFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/PaintView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="26" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/E/android/androidSdk/sources/android-28/android/graphics/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="1637" column="37" selection-start-line="1637" selection-start-column="30" selection-end-line="1637" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/E/android/androidSdk/platforms/android-28/android.jar!/android/graphics/Canvas.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="330" column="51" selection-start-line="330" selection-start-column="51" selection-end-line="330" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/widgets/divider/CanvasView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
-          <folding>
-            <element signature="e#41#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/cb/study/custom/ui/fragment/DividerFragment.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="232">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
         </state>
       </provider>
     </entry>

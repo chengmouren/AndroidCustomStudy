@@ -16,6 +16,6 @@
     <fragment
             android:id="@+id/draw_fragment"
             label="绘图基本Api"
-            android:name="cb.study.custom.ui.fragment.DrawFragment"
+            android:name="cb.study.custom.ui.fragment.PaintFragment"
     ></fragment>
 </navigation>
